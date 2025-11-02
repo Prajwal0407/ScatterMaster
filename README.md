@@ -1,16 +1,23 @@
-# ScatterMaster
+# **ScatterMaster**
 A Blender add-on that scatters selected meshes across any surface with per-source weight, random rotation, scale, and normal alignment, creating a new collection for each scatter batch.
 
 
-# ✨ Features*
+# ✨ Features
 
 ✅ Scatter meshes over any target mesh surface
+
 ✅ Weighted distribution between multiple source objects
+
 ✅ Randomized rotation and scale (per-axis)
+
 ✅ Optional surface normal alignment
+
 ✅ Configurable offset and jitter
+
 ✅ Automatically creates unique scatter collections
+
 ✅ Clear Latest Scatter deletes only the newest batch
+
 ✅ Per-source Weight / Scale / Rotation multipliers
 
 # 🧩 Installation
@@ -76,10 +83,11 @@ The tool supports any mesh type — quads, tris, or ngons.
 
 
 
-#📜 License
+# 📜 License
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
-#👨‍💻 Author
+# 👨‍💻 Author
 **Prajwal Mohite**
+
 Technical Artist
